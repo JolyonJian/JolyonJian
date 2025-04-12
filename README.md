@@ -9,6 +9,8 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
+> 🏆 4 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -71,5 +73,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JolyonJian/JolyonJian/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2025 18:48:06 UTC
+ Last Updated on 12/04/2025 18:44:59 UTC
 <!--END_SECTION:waka-->
